@@ -57,5 +57,6 @@ build/
 hs_err_pid*
 
 idea/
+.idea/
 data/
 metastore_db/
